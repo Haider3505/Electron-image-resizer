@@ -1,0 +1,22 @@
+{
+  "name": "image-resizer-app",
+  "version": "1.0.0",
+  "description": "resizes the image",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haider3505/Electron-image-resizer.git"
+  },
+  "author": "Syed Ali Haider",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Haider3505/Electron-image-resizer/issues"
+  },
+  "homepage": "https://github.com/Haider3505/Electron-image-resizer#readme",
+  "dependencies": {
+    "electron": "^25.1.0"
+  }
+}

@@ -1,0 +1,33 @@
+# Ignore specific file
+filename.txt
+
+# Ignore files in a specific directory
+directory/
+
+# Ignore all files with a specific extension
+*.log
+
+# Ignore all files in a specific directory with a specific extension
+logs/*.log
+
+# Ignore all files with a specific name anywhere in the repository
+secret_file.txt
+
+# Ignore all files with a specific name in a specific directory
+sensitive_data/*.txt
+
+# Ignore all files with a specific pattern
+**/temp-*.txt
+
+# Ignore a specific file format in a directory
+directory/*.pdf
+
+# Ignore all files in a specific directory and its subdirectories
+node_modules/
+
+# Ignore all files and directories matching a pattern
+build/
+*.tmp
+
+# Ignore all files with a specific name, regardless of extension
+filename
